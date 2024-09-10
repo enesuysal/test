@@ -1,0 +1,6 @@
+StoreId,StoreName,StoreShortName,LocationId,OperatedByPartyId,StoreOpenDate,StoreCloseDate,StoreTelephoneNumber,StoreFaxNumber,StoreEmailAddress,ChannelId,GrossFloorArea,BuildingFunctionsArea,NonsellingArea,AvailableSellingArea,NumberOfFloors,TerritoryId,AreaId,RegionId,DistrictId,StoreTypeId,StoreCategoryId,StorePartyId,MerchantId,BrandId,FranchiseeId
+1,Store 1,Store 1,2,0,2019-05-14,2021-10-09,,,,0,,,,,,0,0,0,0,0,0,0,0,0,
+3,Store 2,Store 2,4,0,2022-10-28,2018-04-21,,,,0,,,,,,0,0,0,0,0,0,0,0,0,
+3,Store 3,Store 3,3,0,2019-11-19,2021-12-23,,,,0,,,,,,0,0,0,0,0,0,0,0,0,
+2,Store 4,Store 4,5,0,2021-02-18,2022-04-04,,,,0,,,,,,0,0,0,0,0,0,0,0,0,
+4,Store 5,Store 5,5,0,2022-01-22,2021-01-15,,,,0,,,,,,0,0,0,0,0,0,0,0,0,
